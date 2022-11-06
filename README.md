@@ -5,6 +5,7 @@ Case für DYI-PV-Batterien
 
 OpenSCAD-Sketch zum automatischen erstellen von einem Batterie-Case für DYI-PV-Batterien. Das Sketch errechnet automatisch anhand der Größe der einzubauenden Batterie die Größe des Cases. 
 Hierfür "einfach" die Materialstärke und die Abmessungen der Batterie eingeben:
+
 <img src="https://github.com/all-solutions/Battery-Case/blob/c3a0115b158bdf7ba44fb37641e114f987c862b8/docs/Customizer.jpg">
 
 Weitere Anzeige-"Features":
@@ -15,6 +16,7 @@ Weitere Anzeige-"Features":
 - "Materialdicke": hier bitte angeben, welche Dicke das verwendete Material hat.
 
 OpenSCAD gibt euch nach eurer Eingabe der gewünschten Batteriegröße in der Konsole die Maße der einzelnen Bretter in ECHO-Zeilen an:
+
 <img src="https://github.com/all-solutions/Battery-Case/blob/0272b15a463d7a964c8cf7c92f52cd3854234cbb/docs/Konsole.jpg">
 
 Der Sketch ist (noch) im BETA-Stadium, ihr könnt es aber gerne schon einmal testen. Feedback gerne erwünscht, ich werde eh irgendetwas übersehen ;-).
