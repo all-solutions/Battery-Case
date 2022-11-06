@@ -1,0 +1,18 @@
+{
+    "parameterSets": {
+        "Standardwerte des Designs": {
+            "$fn": "128",
+            "$preview": "128",
+            "BattBreite": "300",
+            "BattHoehe": "145",
+            "BattLaenge": "400",
+            "DEBUG": "true",
+            "Dicke": "15",
+            "Front": "true",
+            "Innenansicht": "true",
+            "IntBoard": "true",
+            "Test": "1"
+        }
+    },
+    "fileFormatVersion": "1"
+}
